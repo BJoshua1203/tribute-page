@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(50deg,rgb(27, 44, 192),rgb(185, 187, 50));
+}
+
+#main{
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 70%;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 100px;
+    padding: 2em;
+    margin: auto;
+}
+
+#image{
+    max-width: 95%;
+    border-radius: 10px;
+    box-shadow: 5px -5px 20px aliceblue;
+    margin: auto;
+    display: block;
+}
+
+li{
+    padding: 20px;
+    text-decoration: none;
+    list-style-type: none;
+    text-align: justify;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#cita{
+    color: rgb(137, 146, 9);
+    font-size: 30px;
+    font: italic;
+    font-family: cursive;
+}
